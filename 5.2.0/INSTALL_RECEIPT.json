@@ -1,0 +1,110 @@
+{
+  "homebrew_version": "3.6.1-58-g7a14ae6",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "loaded_from_api": null,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+    "lib/pkgconfig/tesseract.pc"
+  ],
+  "time": 1674983457,
+  "source_modified_time": 1657138549,
+  "compiler": "clang",
+  "aliases": [
+
+  ],
+  "runtime_dependencies": [
+    {
+      "full_name": "giflib",
+      "version": "5.2.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "jpeg-turbo",
+      "version": "2.1.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libpng",
+      "version": "1.6.38",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libtiff",
+      "version": "4.4.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "little-cms2",
+      "version": "2.13.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "openjpeg",
+      "version": "2.5.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "webp",
+      "version": "1.2.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "leptonica",
+      "version": "1.82.0",
+      "declared_directly": true
+    },
+    {
+      "full_name": "libb2",
+      "version": "0.98.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "lz4",
+      "version": "1.9.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "xz",
+      "version": "5.2.7",
+      "declared_directly": false
+    },
+    {
+      "full_name": "zstd",
+      "version": "1.5.2",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libarchive",
+      "version": "3.6.1",
+      "declared_directly": true
+    }
+  ],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "5.2.0",
+      "head": null,
+      "version_scheme": 0
+    },
+    "path": "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/tesseract.rb",
+    "tap_git_head": "5e9c402aa309f6ea49fb7283b91effc2cbb96a95",
+    "tap": "homebrew/core"
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 12",
+    "cpu_family": "penryn",
+    "xcode": "14.0",
+    "clt": "14.0.0.0.1.1661618636",
+    "preferred_perl": "5.30"
+  }
+}
